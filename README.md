@@ -1,4 +1,4 @@
-##WeCare
+<h1>WeCare</h1>
 
 
 A economia de energia é uma prática fundamental para a sustentabilidade e redução de custos, especialmente em ambientes corporativos ou residenciais. Este projeto, desenvolvido pela iniciativa WeCare, tem como objetivo criar soluções inteligentes para promover boas práticas de consumo energético. 
@@ -8,7 +8,7 @@ Com o auxílio de visão computacional, o sistema detecta automaticamente se há
 ou apagá-las. Essa abordagem busca minimizar o desperdício de energia, proporcionando uma solução eficiente e sustentável.
 
 
-**Descrição do Problema
+Descrição do Problema
 
 
 O problema identificado é o desperdício de energia causado por luzes que permanecem acesas em ambientes desocupados. Em muitos casos, isso ocorre por esquecimento ou falta de sistemas automatizados para gerenciar o consumo de eletricidade.
@@ -17,7 +17,7 @@ Para resolver essa questão, foi desenvolvido um modelo baseado em visão comput
 
 
 
-**Metodologia
+Metodologia
 
 A metodologia seguiu as etapas descritas abaixo:
 
